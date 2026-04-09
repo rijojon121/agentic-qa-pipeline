@@ -200,4 +200,4 @@ MIT
 ## Author
 
 Built by [Rijo Johnson](https://github.com/rijojon121) — QA Automation Engineer based in Toronto.  
-Connect on [LinkedIn](https://www.linkedin.com/in/rijojohnson)
+Connect on [LinkedIn](https://www.linkedin.com/in/rijo-johnson-a368a229a)
