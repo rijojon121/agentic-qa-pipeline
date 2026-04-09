@@ -1,0 +1,10 @@
+As a registered banking customer,
+I want to log in to my online banking account using my username and password,
+So that I can access my account dashboard securely.
+
+Acceptance Criteria:
+- User can log in with valid credentials
+- User sees an error message with invalid credentials
+- User is locked out after 3 failed attempts
+- Session expires after 15 minutes of inactivity
+- Login page is accessible via HTTPS only
